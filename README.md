@@ -9,7 +9,7 @@ Untiy的Text Mesh Pro中文字體庫
 字體(英文) : SegoeUI  
 字體(中文) : 標楷體、微軟正黑體、思源宋體、思源黑體、[思源黑體(Noto Sans TC-500)](https://fonts.google.com/noto/specimen/Noto+Sans+TC)  
 
- ●[目前字庫(英文)](/ChineseWord.md)  
+ ●[目前字庫(英文)](/EnglishWord.md)  
  ●[目前字庫(中文)](/ChineseWord.md)  
 
 ## 使用方式
