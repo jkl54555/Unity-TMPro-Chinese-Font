@@ -1,0 +1,13 @@
+/.vs
+/.vsconfig
+/Library/*
+/Logs
+/Packages
+/ProjectSettings/*
+/Temp
+/UnityTMP字庫.sln
+/UserSettings
+/Assets/TextMesh Pro
+!/Library/BuildSettings.asset
+!/ProjectSettings/ProjectVersion.txt
+!/ProjectSettings/EditorSettings.asset
