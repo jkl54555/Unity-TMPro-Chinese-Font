@@ -16,6 +16,7 @@ Untiy的Text Mesh Pro中文字體庫
 
 1. 請使用 支援TMPro 的unity版本
 2. 請自行匯入TMPro, 此包只有字體包，並不包含TMPro
+3. 若該字體本身就沒有那個字，則無法渲染該字，在渲染的步驟時該字會被忽略掉
 
 ---
 若有文字無法顯示可以在[討論區](https://github.com/jkl54555/Unity-TMPro-Chinese-Font/discussions/2#discussion-4571133)協助告知
