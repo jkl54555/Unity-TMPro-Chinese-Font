@@ -14,7 +14,7 @@ Untiy的Text Mesh Pro中文字體庫
 
 ## 使用方式
 
-下載: [TMProChinese.v1.2.unitypackage](https://github.com/jkl54555/Unity-TMPro-Chinese-Font/releases/download/v1.2/TMProChinese.v1.2.unitypackage)
+下載: [TMProChinese.v1.3.unitypackage](https://github.com/jkl54555/Unity-TMPro-Chinese-Font/releases/download/v1.3/TMProChinese.v1.3.unitypackage)
 
 1. 請使用 支援TMPro 的unity版本
 2. 請自行匯入TMPro, 此包只有字體包，並不包含TMPro

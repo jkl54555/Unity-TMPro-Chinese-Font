@@ -10,6 +10,8 @@
 /UnityTMP字庫.sln
 /UserSettings
 !/Assets
+/Assets/Scenes
+/Assets/Scenes.meta
 /Assets/TextMesh Pro
 /Assets/TextMesh Pro.meta
 !/.gitignore
